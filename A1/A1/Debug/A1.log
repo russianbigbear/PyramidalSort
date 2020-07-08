@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\eduacation\алгоритмы\a1\a1\main.cpp(257): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\eduacation\алгоритмы\a1\a1\main.cpp(288): warning C4018: <: несоответствие типов со знаком и без знака
+d:\eduacation\алгоритмы\a1\a1\main.cpp(327): warning C4018: <: несоответствие типов со знаком и без знака
+  A1.vcxproj -> D:\Eduacation\Алгоритмы\A1\Debug\A1.exe
